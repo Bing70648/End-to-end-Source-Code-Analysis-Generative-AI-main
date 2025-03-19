@@ -1,7 +1,8 @@
+gitpython
 langchain_google_genai
 tiktoken 
-chromadb==0.4.4
-langchain==0.0.249
+chromadb
+langchain
 flask
 GitPython
 python-dotenv
